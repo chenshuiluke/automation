@@ -1,0 +1,9 @@
+{
+    "backups": [
+        {
+            "destination": "/home/luke",
+            "name": "bin",
+            "origin": "/bin"
+        }
+    ]
+}
